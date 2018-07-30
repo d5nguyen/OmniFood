@@ -627,10 +627,8 @@ footer p {
 .js--wp-1,
 .js--wp-2,
 .js--wp-3 {
-   opacity: 0;
+    opacity: 0;
 }
-
-
     
 .js--wp-1.animated,
 .js--wp-2.animated,
