@@ -314,7 +314,7 @@ header {
     padding: 0;
 }
 
-meals-showcase {
+.meals-showcase {
     list-style: none;
     width: 100%;
 }
